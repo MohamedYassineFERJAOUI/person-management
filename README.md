@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple web application developed with the MERN (MongoDB, Express.js, React, Node.js) stack. It serves as a tool for managing person records, allowing users to perform CRUD (Create, Read, Update, Delete) operations and apply filters based.
+This project is a simple web application developed with the MERN (MongoDB, Express.js, React, Node.js) stack. It serves as a tool for managing person records, allowing users to perform CRUD (Create, Read, Update, Delete) operations and apply filters based on name or age.
 
 ## Table of Contents
 
