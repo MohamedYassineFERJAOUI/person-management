@@ -1,0 +1,40 @@
+.cover {
+    background-color: white;
+    width: 40%;
+    height: 70%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: rgba(255, 255, 255, 0.55);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px #4747470b;
+    backdrop-filter: blur(7.1px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.textbox {
+    border: 0;
+    padding: 1rem 1.25rem;
+    border-radius: 1rem;
+    width: 75%;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    font-size: 1.125rem;
+}
+
+.btn {
+    border: none;
+    background-color: #4299e1;
+    width: 75%;
+    padding: 1rem;
+    border-radius: 0.75rem;
+    color: #f8fafc;
+    font-size: 1.25rem;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    text-align: center;
+}
